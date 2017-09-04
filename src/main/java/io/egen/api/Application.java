@@ -12,7 +12,11 @@ import io.egen.api.config.WebConfig;
 public class Application {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		 
+=======
+		
+>>>>>>> 910ab90b512670864359e5ffe458666100eece54
 		SpringApplication.run(Application.class, args);
 	}
 }
